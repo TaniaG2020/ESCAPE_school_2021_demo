@@ -2,6 +2,7 @@
 
 Never do live demos
 Crazy stuff
+TEST
 
 Usage:
 ```python
